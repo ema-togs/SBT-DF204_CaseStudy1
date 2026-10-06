@@ -1,0 +1,15 @@
+CASE CONCLUSION REPORT
+========================================================================================================================
+Subject Identified : Johnny Coach
+Associated Account : jcoachj@gmail.com
+Hardware MAC       : 00:17:f2:e2:c0:ce
+Incident Packet    : Packet 83601 (TCP Stream 1707)
+Incident Timestamp : 2008-07-22 02:04:24 EDT / 2008-07-22 06:04:24 UTC
+Course / Instructor: Chemistry 109 / Lily Tuckrige
+
+Summary:
+Forensic analysis of nitroba.pcap binds the harassing HTTP POST request sent to willselfdestruct.com directly to
+hardware MAC address 00:17:f2:e2:c0:ce. Google HTTP session cookies captured from this MAC address identified the active
+user as jcoachj@gmail.com. Cross-referencing this identity with the Chemistry 109 course list confirms Johnny Coach
+as the perpetrator.
+========================================================================================================================
