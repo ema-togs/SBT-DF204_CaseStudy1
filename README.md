@@ -1,4 +1,4 @@
-# SBT-DF204 Case Study 1: Nitroba Digital Forensics Investigation
+<img width="1179" height="155" alt="image" src="https://github.com/user-attachments/assets/a6fe6010-61a3-4892-aff0-e5bd2e7d08de" /># SBT-DF204 Case Study 1: Nitroba Digital Forensics Investigation
 
 ## Overview
 This repository contains the forensic evidence log, timeline analysis, and final conclusion report for **SBT-DF204 Case Study 1**. The investigation involved analyzing packet capture data (`nitroba.pcap`) to trace a harassing web communication sent to Chemistry 109 instructor Lily Tuckrige back to its originating device and enrolled student.
@@ -14,7 +14,10 @@ This repository contains the forensic evidence log, timeline analysis, and final
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 SBT-DF204_CaseStudy1/
-├── reports/            # Formatted text reports, timestamps, and evidence log
-├── working/            # Working artifacts and extracted text data
-└── case_materials/     # Investigation scenarios and supporting materials
+├── reports/          # Formatted text reports, timestamps, and evidence log
+├── working/          # Working artifacts and extracted text data
+└── case_materials/   # Investigation scenarios and supporting materials
